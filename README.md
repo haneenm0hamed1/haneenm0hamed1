@@ -2,7 +2,7 @@
 
 🎓 Computer Science student  
 💻 Frontend Developer (HTML, CSS, JavaScript, React)  
-🎨 Passionate about building clean UI & responsive design  
+🎨 Passionate about building clean UI & responsive design
 
 ---
 
@@ -28,11 +28,13 @@ Check out my pinned repositories for examples of my work:
 - **React Todo App** – Simple app to practice React fundamentals  
 - **Dashboard UI** – Responsive dashboard with multiple components  
 - **Graduation Project Frontend** – Full-stack project frontend implementation  
-- **HTML & CSS Components** – Reusable UI components practice
-
+- **HTML & CSS Components** – Reusable UI components practice  
+- **Weather App (React)** – [Live Demo](https://weather94.netlify.app/)  
+- **E-Commerce Project (React)** – [Live Demo](https://e-commerce2459.netlify.app/)  
+- **Swag Labs Testing Project** – Manual & automation testing for Swag Labs demo
 
 ---
 
 ## 📫 Contact
-- Email: haneen2142004@gmail.com  
+- Email: [haneen2142004@gmail.com](mailto:haneen2142004@gmail.com)  
 - LinkedIn: [Haneen Mohamed](https://www.linkedin.com/in/haneen-mohamed-haneenmohamed?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
