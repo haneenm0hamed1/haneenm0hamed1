@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi 👋 I'm Haneen
 
-<!--
-**haneenm0hamed1/haneenm0hamed1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student  
+💻 Frontend Developer (HTML, CSS, JavaScript, React)  
+🎨 Passionate about building clean UI & responsive design  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- HTML
+- CSS
+- JavaScript
+- React
+- Git & GitHub
+
+---
+
+## 💼 Experience
+- Frontend Developer with hands-on experience in e-commerce projects  
+- Worked with **Salla** and **Zid** platforms  
+- Focused on UI customization, responsive design, and performance
+
+---
+
+## 🚀 Projects
+Check out my pinned repositories for examples of my work:
+
+- **React Todo App** – Simple app to practice React fundamentals  
+- **Dashboard UI** – Responsive dashboard with multiple components  
+- **Graduation Project Frontend** – Full-stack project frontend implementation  
+- **HTML & CSS Components** – Reusable UI components practice
+
+
+---
+
+## 📫 Contact
+- Email: haneen2142004@gmail.com  
+- LinkedIn: [Haneen Mohamed](https://www.linkedin.com/in/haneen-mohamed-haneenmohamed?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
