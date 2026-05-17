@@ -50,10 +50,10 @@
 
 ## 🚀 Key Projects
 
-### 🏥 [MediCare](https://github.com/YOUR_GITHUB_USERNAME)
+### 🏥 [MediCare](https://github.com/haneenm0hamed1)
 A premium healthcare AI application dashboard featuring high-end UI/UX, intuitive doctor/patient analytics, and smart scheduling components with dark mode optimization.
 
-### 🕸️ [SpiderVenom](https://github.com/YOUR_GITHUB_USERNAME)
+### 🕸️ [SpiderVenom](https://github.com/haneenm0hamed1)
 A React + Vite development playground showcasing advanced micro-interactions, custom animations, and a cohesive "Ghost Spider" inspired visual ecosystem.
 
 ### 🛍️ Globy E-Commerce Theme (Salla/Zid Integration)
@@ -69,12 +69,12 @@ Advanced customization for next-gen store themes, integrating performance-first 
 ## 📊 Automated GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C9D1D9" alt="Haneen's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=haneenm0hamed1&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C9D1D9" alt="Haneen's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haneenm0hamed1&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakNum=A855F7" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=haneenm0hamed1&theme=dark&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakNum=A855F7" alt="GitHub Streak" />
 </p>
 
 ---
