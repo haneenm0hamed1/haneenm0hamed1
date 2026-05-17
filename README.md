@@ -4,7 +4,7 @@
 ### 🪄 Frontend Developer & UI/UX Enthusiast
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A855F7&background=00000000&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Frontend+Web+Developer;Salla+%26+Zid+Theme+Engineer;Crafting+Premium+Digital+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A855F7&background=00000000&center=true&vCenter=true&width=550&lines=Frontend+Web+Developer;Salla+%26+Zid+Theme+Developer;Computer+Science+Student" alt="Typing SVG" />
 </p>
 
 ---
@@ -66,8 +66,6 @@ Advanced customization for next-gen store themes, integrating performance-first 
 
 ---
 
-
-
 ## 📊 Automated GitHub Metrics
 
 <p align="center">
@@ -79,3 +77,7 @@ Advanced customization for next-gen store themes, integrating performance-first 
 </p>
 
 ---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=120&section=footer" width="100%" />
+</div>
