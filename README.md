@@ -66,16 +66,12 @@ Advanced customization for next-gen store themes, integrating performance-first 
 
 ---
 
----
+
 
 ## 📊 Automated GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=haneenm0hamed1&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C9D1D9" alt="Haneen's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=haneenm0hamed1&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haneenm0hamed1&theme=2077" alt="Haneen's GitHub Stats" width="100%" />
 </p>
 
 <p align="center">
