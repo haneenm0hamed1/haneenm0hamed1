@@ -66,11 +66,16 @@ Advanced customization for next-gen store themes, integrating performance-first 
 
 ---
 
+---
+
 ## 📊 Automated GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haneenm0hamed1&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C9D1D9" alt="Haneen's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haneenm0hamed1&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=haneenm0hamed1&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C9D1D9" alt="Haneen's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=haneenm0hamed1&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -78,7 +83,3 @@ Advanced customization for next-gen store themes, integrating performance-first 
 </p>
 
 ---
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=120&section=footer" width="100%" />
-</div>
