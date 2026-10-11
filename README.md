@@ -24,10 +24,15 @@ I'm a frontend developer with **2 years of hands-on experience**. I started with
 Animation and interaction are a core focus of my work: I care about making an interface *feel* right, not just look right.
 
 - 🎓 **Education:** B.Sc. in Statistics & Computer Science, Mansoura University (2022 – 2026), graduated among the top of the class
+
 - 💼 **Now:** Frontend Developer at **Azzrak**, a software development company
+
 - ✨ **Focus:** motion-driven UIs with GSAP, Framer Motion, and Three.js
+
 - 🛍️ **E-commerce:** custom themes for Salla, Zid, and Shopify
+
 - 🤖 **AI:** I use AI tools to speed up prototyping, debugging, and code review, and I verify every output before shipping
+
 - 🎯 **Training:** Six-month scholarship from the Ministry of Communications (DEPI Program), intensive frontend development
 
 ---
@@ -105,7 +110,7 @@ Custom store theme work with fluid layouts, performance-focused UI layers, and A
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=haneenm0hamed1&theme=dark&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakNum=A855F7" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=haneenm0hamed1&theme=dark&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakNum=A855F7&timezone=Africa/Cairo&cache_bust=2" alt="GitHub Streak" />
 </p>
 
 ---
