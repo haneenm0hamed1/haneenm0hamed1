@@ -110,7 +110,7 @@ Custom store theme work with fluid layouts, performance-focused UI layers, and A
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=haneenm0hamed1&theme=dark&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakNum=A855F7&timezone=Africa/Cairo&cache_bust=7" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=haneenm0hamed1&theme=dark&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakNum=A855F7&timezone=Africa/Cairo&cache_bust=8" alt="GitHub Streak" />
 </p>
 
 ---
